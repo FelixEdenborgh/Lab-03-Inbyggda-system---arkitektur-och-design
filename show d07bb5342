@@ -1,0 +1,85 @@
+[33mcommit d07bb5342fdd29ba977e42669aac46d2c47e38f4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Sun Sep 16 23:14:22 2018 +0200
+
+    Lab-03: baseline
+    
+    Change-Id: Ia1fba4dde4139ea94d6e9659741926d30fce9475
+
+[33mcommit 2b6b38d01cc2bba9edbd8abcc0e7e784363acc82[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Sun Sep 16 23:14:22 2018 +0200
+
+    lab-02-3 solution
+    
+    Change-Id: I1476d72d893bffbab08d71a4534705124433843e
+
+[33mcommit 6e81ca4148e10f4a522e2abec218ac3da974b6f0[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Sun Sep 16 23:01:56 2018 +0200
+
+    lab-02-2 solution
+    
+    Change-Id: Iefdaf28d8cf050f6e4de55f97d6c465b619ff404
+
+[33mcommit 8adf20f7875034a6af99cea46627ff88c7bc950a[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Sun Sep 16 22:53:14 2018 +0200
+
+    lab-02-1 solution
+    
+    Change-Id: Id729e4fef934719f529d29f852f0d7647ecda81a
+
+[33mcommit aab68944db9e113bd33a53c6ec68cec7cbf6f330[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Mon Sep 10 17:06:36 2018 +0200
+
+    lab-02: Add lab baseline
+    
+    Change-Id: I5e0a33cd954a05aadc697873b08fb548d4ea41f5
+
+[33mcommit 9b988285b13ccd050716f41164bf6bd5e88b9a62[m[33m ([m[1;32mlab-01-solutions[m[33m)[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Thu Sep 6 23:02:43 2018 +0200
+
+    lab-01-4: add solution
+    
+    Change-Id: I803a6ccd4332b8dc984db163914a174042e5f6a3
+
+[33mcommit 1ca83e72bfa17a20339427c87d9dfcdb78eb7b58[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Thu Sep 6 21:13:02 2018 +0200
+
+    lab-01-3: add solution
+    
+    Change-Id: I003d7360b3e0ed53cb88ee39c4af3ae80dffb05f
+
+[33mcommit aed136f3f43213c3ee03d5e9362a6d3e4bc4d9c9[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Thu Sep 6 21:07:27 2018 +0200
+
+    lab-01-2: add solution
+    
+    Change-Id: I33336683bc2767cdbc0bea1e52ac76957199cfd0
+
+[33mcommit 865e4f90169669f7518a96b68690aea89df3b334[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Thu Sep 6 20:59:34 2018 +0200
+
+    lab-01-1: add solution
+    
+    Change-Id: Ieecd03c37c9fba5b8fb094b6d0976e6cd276ed16
+
+[33mcommit 581cae836f1bac1d1650d99d0a89524523fbe81b[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Wed Aug 29 14:33:04 2018 +0200
+
+    lab-01: Add lab baseline
+    
+    Change-Id: Ie08843378f645933adf0ffb0011628de02383af1
+
+[33mcommit 42068063a7f239ac4d578c40ab38155b3b718434[m
+Author: Andreas Nordin <andreas.nordin@rte.se>
+Date:   Wed Aug 29 14:19:28 2018 +0200
+
+    Initial empty repository
